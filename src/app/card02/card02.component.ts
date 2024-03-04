@@ -8,8 +8,10 @@ import { Component } from '@angular/core';
   styleUrl: './card02.component.css'
 })
 export class Card02Component {
+  contato: string = "Contato:";
   faleConosco: string = "Venha viajar com a gente!";
   endereco: string = "Rua 7 de Setembro, 123, Barueri - SP";
   phone: string = "Fone: (11) 91234 8124";
+  facebook: string ="Acesse nosso Facebook";
 
 }

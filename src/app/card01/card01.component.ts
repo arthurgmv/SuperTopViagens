@@ -8,6 +8,8 @@ import { Component } from '@angular/core';
   styleUrl: './card01.component.css'
 })
 export class Card01Component {
+superTop: string = "SuperTop Viagens";
+superTop2: string = "A sua agência top de viagens!";
 china: string = "A Grande Muralha da China";
 chinaDescription: string = "Localizada no coração desta potência econômica do leste asiático,\n" +
   "        a muralha da china lhe mostrará o lado mistíco deste incrível país.";
