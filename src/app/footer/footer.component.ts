@@ -8,5 +8,6 @@ import { Component } from '@angular/core';
   styleUrl: './footer.component.css'
 })
 export class FooterComponent {
-footer: string = "SuperTop Viagens©";
+footer: string = "SuperTop Viagens© \n Todos os direitos resevados";
+
 }

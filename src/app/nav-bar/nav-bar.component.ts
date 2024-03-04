@@ -8,5 +8,7 @@ import { Component } from '@angular/core';
   styleUrl: './nav-bar.component.css'
 })
 export class NavBarComponent {
+viagens: string = "Viagens";
+contatos: string = "Contatos";
 
 }
