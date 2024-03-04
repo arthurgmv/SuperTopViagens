@@ -1,0 +1,15 @@
+.header {
+  margin-top: 3rem;
+  text-align: center;
+  font-weight: bolder;
+
+}
+@media (max-width: 768px) {
+  #viagens .card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+}
+
